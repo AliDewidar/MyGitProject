@@ -1,3 +1,3 @@
 # MyGitProject
 My First Git Project
-## info 
+## info about project
