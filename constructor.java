@@ -68,7 +68,9 @@ public class constructor {
       // emp.printEmployee();
 
       Employee emp1 = new Employee();
-
+      emp1.printEmployee(); //intial constructor هيطلع ال
+      emp1.setAge(23);
+      emp1.setSalary(22000);
    }
    
 }
